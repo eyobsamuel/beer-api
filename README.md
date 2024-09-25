@@ -8,7 +8,7 @@ This is a simple Beer Collection API built with Node.js, Express, Sequelize, and
 
 ## Video Demo
 
-[Watch the video](https://github.com/user-attachments/assets/1b16d6f8-ce4b-48fa-98ca-c78c4fab7bef)
+[Watch the video](https://github.com/user-attachments/assets/1fe9305b-10a8-419a-acf1-3e4121f10619)
 
 ## Technologies Used
 
