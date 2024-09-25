@@ -4,7 +4,7 @@ This is a simple Beer Collection API built with Node.js, Express, Sequelize, and
 
 ## Live Demo
 
-[https://movie-search-app-lime-seven.vercel.app/](https://movie-search-app-lime-seven.vercel.app/)
+[https://beer-api-nx3s.onrender.com/](https://beer-api-nx3s.onrender.com/)
 
 ## Video Demo
 
